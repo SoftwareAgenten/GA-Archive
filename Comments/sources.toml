@@ -1,0 +1,45 @@
+domains = ["*.blogfill.de"]
+paths = ["/*"]
+startdate = 2015-05-06T20:57:21
+enddate = 2015-05-07T06:21:44
+
+keyphrases = [
+  "slot machine",
+  "I was born in Australia but grew up in England"
+]
+
+[[comment]]
+  id = "20150506205721.9591.qmail@serpens.uberspace.de"
+  sources = [
+    "http://www.reuters.com/article/usa-fire-yosemite-idUSL2N0GP0E320130824",
+    "http://www.nydailynews.com/news/world/sarah-outen-woman-paddle-japan-alaska-globe-circling-journey-article-1.1477241"
+  ]
+
+[[comment]]
+  id = "20150506205720.9390.qmail@serpens.uberspace.de"
+  sources = [
+    "http://everytownresearch.org/reports/felon-seeks-firearm-no-strings-attached/",
+    "http://mashable.com/2013/09/18/criminal-records-guns-online/#ZLefxsjudiqD",
+    "http://www.usnews.com/opinion/blogs/stephanie-slade/2013/08/12/sanjay-gupta-shows-the-medical-marijuana-tide-is-turning"
+  ]
+
+[[comment]]
+  id = "20150506205722.10025.qmail@serpens.uberspace.de"
+  sources = [
+    "http://www.reuters.com/article/amr-usairways-lawsuit-outlook-idINL2N0GE1BH20130813",
+    "http://www.bbc.com/news/science-environment-23274175"
+  ]
+
+[[comment]]
+  id = "20150506205721.9436.qmail@serpens.uberspace.de"
+  sources = [
+    "http://www.sbsun.com/article/ZZ/20130710/NEWS/130718646",
+    "https://www.yahoo.com/news/un-official-says-chemical-weapons-inspectors-begin-destroying-095038647.html?ref=gs",
+    "http://www.cbsnews.com/news/un-says-destruction-of-syrias-chemical-weapons-underway/"
+  ]
+
+[[comment]]
+  id = "20150506205722.10192.qmail@serpens.uberspace.de"
+  sources = [
+    "http://www.reuters.com/article/us-att-leap-idUSBRE96B10520130713"
+  ]
