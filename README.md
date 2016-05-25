@@ -8,3 +8,4 @@ This is the archive for the [*Software-Agenten im Internet*](https://github.com/
 
 - [Login Honeypot](https://github.com/SoftwareAgenten/Login-Honeypot)
 - [WordPress Login Honeypot](https://github.com/SoftwareAgenten/WordPress-Login-Honeypot)
+- [process_mailbox](https://github.com/SoftwareAgenten/process_mailbox)
