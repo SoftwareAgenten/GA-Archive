@@ -11,7 +11,7 @@
   			list.push({ name: x, count: 1 })
   		}
   	})
-  	return list.sort((x, y) => y.value - x.value)
+  	return list.sort((x, y) => y.count - x.count)
   }
   var grap = (rgx, string) => {
     var matches = []
