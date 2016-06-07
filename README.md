@@ -5,6 +5,7 @@ This is the archive for the [*Software-Agenten im Internet*](https://github.com/
 ## Data Collectors
 
 - [Great-Attractor](https://github.com/SoftwareAgenten/Great-Attractor)
+- [WWWEB](https://github.com/SoftwareAgenten/WWWEB)
 - [Login Honeypot](https://github.com/SoftwareAgenten/Login-Honeypot)
 - [WordPress Login Honeypot](https://github.com/SoftwareAgenten/WordPress-Login-Honeypot)
 - [process_mailbox](https://github.com/SoftwareAgenten/process_mailbox)
